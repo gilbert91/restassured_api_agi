@@ -1,0 +1,9 @@
+# Relatórios e resultados de testes
+*.json
+*.html
+
+# Pastas de relatórios (recomendado)
+test-results/
+playwright-report/
+allure-results/
+allure-report/
